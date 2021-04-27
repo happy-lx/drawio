@@ -1,1 +1,169 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T11:25:33.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" version="14.6.6" etag="-eHIF-g1HyCMXLANcd1p" type="github"><diagram id="CTmOGzoyT5WaWmqhhCym">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-27T11:50:18.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="DbZzQaAt7UOICrjJGjCE" version="14.6.6" type="github">
+  <diagram id="CTmOGzoyT5WaWmqhhCym" name="Page-1">
+    <mxGraphModel dx="2062" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I_HunuTIMYHuIlzramTN-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="622.5" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-2" target="I_HunuTIMYHuIlzramTN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-2" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 22px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;idle&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-3" value="TLB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-4" value="MMU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-5" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-7" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-8" value="req&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3DsingleArrow%3Bdirection%3Dsouth%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22300%22%20y%3D%22110%22%20width%3D%2230%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="125" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-9" value="resp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="125" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-10" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="170" as="sourcePoint" />
+            <mxPoint x="160" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-11" value="enable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-13" value="vaddr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="125" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-17" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="160" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-18" value="flush" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="160" as="sourcePoint" />
+            <mxPoint x="700" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-20" value="paddr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-21" value="page fault" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="127.5" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="135" as="sourcePoint" />
+            <mxPoint x="700" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-24" value="valid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-25" target="I_HunuTIMYHuIlzramTN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-44" value="enable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_HunuTIMYHuIlzramTN-33">
+          <mxGeometry x="0.08" y="-3" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-25" target="I_HunuTIMYHuIlzramTN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-46" value="TLB miss" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_HunuTIMYHuIlzramTN-34">
+          <mxGeometry x="-0.3212" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-25" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 22px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;find_tlb&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-26" target="I_HunuTIMYHuIlzramTN-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-47" value="enable ptw" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_HunuTIMYHuIlzramTN-35">
+          <mxGeometry x="0.2896" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-26" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 22px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;find_entry&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="610" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-27" target="I_HunuTIMYHuIlzramTN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-42" value="write finish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_HunuTIMYHuIlzramTN-39">
+          <mxGeometry x="-0.2606" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-27" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 22px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;write_back&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-31" target="I_HunuTIMYHuIlzramTN-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="471" y="555" />
+              <mxPoint x="626" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-48" value="ptw respons" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_HunuTIMYHuIlzramTN-36">
+          <mxGeometry x="-0.2047" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-31" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 16px ; line-height: 22px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;find_ptw&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="416.25" y="610" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-38" value="" style="endArrow=classic;html=1;exitX=0.042;exitY=0.745;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_HunuTIMYHuIlzramTN-25" target="I_HunuTIMYHuIlzramTN-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="560" as="sourcePoint" />
+            <mxPoint x="470" y="510" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-43" value="write back AD bits" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_HunuTIMYHuIlzramTN-38">
+          <mxGeometry x="0.0876" relative="1" as="geometry">
+            <mxPoint x="50" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-40" value="finite state machine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="411.75" y="380" width="119" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-41" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="310" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I_HunuTIMYHuIlzramTN-45" value="get paddr" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="440" as="geometry">
+            <mxPoint x="-15" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
