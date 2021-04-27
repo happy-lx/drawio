@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T09:08:18.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" version="14.6.6" etag="P5HnA6nWFuvTE8c9zHoN" type="github"><diagram id="K7Za03o5QP1agunwMvN_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-27T09:22:37.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="Mo40HwN2W60DgetEMo-U" version="14.6.6" type="github">
+  <diagram id="K7Za03o5QP1agunwMvN_" name="Page-1">
+    <mxGraphModel dx="2062" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;IMMU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="430" width="275" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-2" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="350" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-3" value="SRAM -LIKE INTERFACE FROM IF STAGE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;IF Stage&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189.5" y="220" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-7" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="434" y="375" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-8" value="Page Fault information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="408.5" y="285" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ICache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DCache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-11" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="720" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="720" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-13" value="Cache request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-14" value="Cache request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
