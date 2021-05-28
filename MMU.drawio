@@ -1,44 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T09:22:37.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="Mo40HwN2W60DgetEMo-U" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T02:43:24.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Mz4Y4nb4zL5fqczPtFfw" version="14.7.2" type="github">
   <diagram id="K7Za03o5QP1agunwMvN_" name="Page-1">
-    <mxGraphModel dx="2062" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;IMMU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;IMMU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="430" width="275" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-2" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-2" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="350" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-3" value="SRAM -LIKE INTERFACE FROM IF STAGE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SRAM -LIKE INTERFACE FROM IF STAGE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="280" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;IF Stage&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-4" value="&lt;font style=&quot;font-size: 24px&quot;&gt;IF Stage&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="189.5" y="220" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-7" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-7" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="434" y="375" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-8" value="Page Fault information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Page Fault information&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="408.5" y="285" width="131" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ICache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-9" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ICache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="192.5" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DCache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-10" value="&lt;font style=&quot;font-size: 24px&quot;&gt;DCache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-11" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-11" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="720" width="35" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="720" width="35" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-13" value="Cache request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Cache request&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="750" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z-vDe1uVp4r6TDLOE44Z-14" value="Cache request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z-vDe1uVp4r6TDLOE44Z-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Cache request&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="485" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;DMMU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="821" y="428" width="275" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-2" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841" y="348" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SRAM -LIKE INTERFACE FROM IF STAGE&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="786" y="278" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-4" value="&lt;font style=&quot;font-size: 24px&quot;&gt;MEM Stage&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795.5" y="218" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-5" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="373" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Page Fault information&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1014.5" y="283" width="131" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-8" value="&lt;font style=&quot;font-size: 24px&quot;&gt;DCache&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810.5" y="827" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-9" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841" y="718" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-10" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="718" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Cache request&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="756" y="748" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Cache request&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="748" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-14" value="&lt;font style=&quot;font-size: 24px&quot; face=&quot;Times New Roman&quot;&gt;(a) IMMU&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="282" y="924" width="160" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="b2zgJ6EdgH9R0VB4yWXw-15" value="&lt;font style=&quot;font-size: 24px&quot; face=&quot;Times New Roman&quot;&gt;(b) DMMU&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="888" y="924" width="160" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
