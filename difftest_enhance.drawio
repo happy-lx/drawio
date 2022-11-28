@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T04:44:12.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.6.0" etag="N7IQxFiJyi0NABehAvgJ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T05:07:57.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.6.0" etag="0JsMTi-6wC6o1_x2nWaO" type="github">
   <diagram id="c9EQJKy3X6T9OGDmbaaM" name="第 1 页">
-    <mxGraphModel dx="1113" dy="792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="1961" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1212" width="742" height="674" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="16" y="24" width="742" height="674" as="geometry" />
+        </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="70" width="665" height="295" as="geometry" />
         </mxCell>
@@ -27,7 +33,7 @@
             <mxPoint x="264" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-11" value="Difftest*Event.v" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-11" value="&lt;b&gt;Difftest*Event.v&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="102" y="409" width="116" height="78" as="geometry" />
         </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -42,13 +48,13 @@
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-15" value="./build" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="21" y="373" width="50" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-18" value="DifftestMain.scala&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;class Difftest*Event&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;extends module{&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;val io = new Diff*IO&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-18" value="&lt;b&gt;DifftestMain.scala&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;class Difftest*Event&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;extends module{&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;val io = new Diff*IO&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="266" y="254" width="154" height="95" as="geometry" />
         </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-7" target="W4_UKcA4W3yy70WwRPlZ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-7" value="Difftest.scala&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;class Diff*IO&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;extends bundle {&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	val valid = *&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	val data = *&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-7" value="&lt;b&gt;Difftest.scala&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;class Diff*IO&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;extends bundle {&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	val valid = *&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	val data = *&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="82" y="253" width="165" height="98" as="geometry" />
         </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -60,14 +66,19 @@
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-25" value="src/test/csrc/difftest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="529" y="132" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-26" value="interface.h&lt;br&gt;&lt;br&gt;void v_difftest_* (*);" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-26" value="&lt;b&gt;interface.h&lt;/b&gt;&lt;br&gt;&lt;br&gt;void v_difftest_* (*);" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="532.5" y="268" width="173" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-27" value="interface.cpp&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;void v_difftest_*(*) {&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	difftest-&amp;gt;dut.event.valid =*;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	difftest-&amp;gt;dut.event.data =*;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
-          <mxGeometry x="532" y="158" width="176" height="98" as="geometry" />
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-27" target="W4_UKcA4W3yy70WwRPlZ-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="207" />
+              <mxPoint x="515" y="128" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-28" value="new difftest&lt;br&gt;&lt;br&gt;step()" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="302" y="78" width="116" height="114" as="geometry" />
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-27" value="&lt;b&gt;interface.cpp&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;void v_difftest_*(*) {&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;  difftest-&amp;gt;dut.event.valid =*;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;  difftest-&amp;gt;dut.event.data =*;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="532" y="158" width="176" height="98" as="geometry" />
         </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-31" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="59" y="502" width="665" height="177" as="geometry" />
@@ -87,10 +98,10 @@
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-17" value="src/main/scala" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
           <mxGeometry x="209" y="40" width="95" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-19" value="ROB.scala&lt;br&gt;&lt;br&gt;val event = new &amp;nbsp;Difftest*Event&lt;br&gt;event.io.valid = event.valid&lt;br&gt;event.io.data = event.data" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-19" value="&lt;b&gt;ROB.scala&lt;/b&gt;&lt;br&gt;&lt;br&gt;val event = new &amp;nbsp;Difftest*Event&lt;br&gt;event.io.valid = event.valid&lt;br&gt;event.io.data = event.data" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
           <mxGeometry x="293" y="70" width="212" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-20" value="Sbuffer.scala" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-20" value="&lt;b&gt;Sbuffer.scala&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
           <mxGeometry x="514" y="96" width="86" height="61" as="geometry" />
         </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-11" target="W4_UKcA4W3yy70WwRPlZ-19">
@@ -100,6 +111,185 @@
               <mxPoint x="458" y="514" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="1256" width="665" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1264" width="108" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-34" value="difftest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="142" y="1370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-46" target="W4_UKcA4W3yy70WwRPlZ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-36" value="Difftest*.v" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="116" y="1575" width="116" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-37" value="Difftest*.v" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="126" y="1585" width="116" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="298" y="1634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-39" value="&lt;b&gt;Difftest*Event.v&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="136" y="1595" width="116" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="101" y="1403" width="402" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-42" target="W4_UKcA4W3yy70WwRPlZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-42" value="&lt;div&gt;always @(posedge io_clock) begin&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; v_difftest_* (valid, data, &lt;font color=&quot;#ff0000&quot;&gt;custom&lt;/font&gt;,...);&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;end&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="1602" width="216" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-43" value="./build" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1559" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-44" value="&lt;b&gt;DifftestMain.scala&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;class Difftest*Event&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;extends module{&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;val io = new Diff*IO&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="300" y="1440" width="154" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-46" target="W4_UKcA4W3yy70WwRPlZ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-46" value="&lt;b&gt;Difftest.scala&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;class Diff*IO&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;extends bundle {&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	val valid = *&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	val data = *&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	val custom = *&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="116" y="1427" width="171" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="559" y="1314" width="188" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-48" value="src/main/scala" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="109" y="1404" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-49" value="src/test/csrc/difftest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="563" y="1318" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-50" value="&lt;b&gt;interface.h&lt;br&gt;&lt;/b&gt;&lt;br&gt;void v_difftest_* (*);" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="566.5" y="1454" width="173" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-51" target="W4_UKcA4W3yy70WwRPlZ-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="547" y="1393" />
+              <mxPoint x="547" y="1318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-51" value="&lt;b&gt;interface.cpp&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;void v_difftest_*(*) {&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;  difftest-&amp;gt;dut.event.valid =*;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;  difftest-&amp;gt;dut.event.data =*;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;  difftest-&amp;gt;dut.event.custom=*;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="566" y="1344" width="176" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="93" y="1688" width="665" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-53">
+          <mxGeometry width="665" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-55" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-53">
+          <mxGeometry x="27" y="34" width="108" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-56" value="XiangShan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-53">
+          <mxGeometry x="51" y="142" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-53">
+          <mxGeometry x="202" y="35" width="457" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-58" value="src/main/scala" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-53">
+          <mxGeometry x="209" y="40" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-59" value="&lt;b&gt;ROB.scala&lt;/b&gt;&lt;br&gt;&lt;br&gt;val event = new &amp;nbsp;Difftest*Event&lt;br&gt;event.io.valid = event.valid&lt;br&gt;event.io.data = event.data&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;event.io.custom = event.custom&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-53">
+          <mxGeometry x="293" y="70" width="212" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-60" value="&lt;b&gt;Sbuffer.scala&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-53">
+          <mxGeometry x="514" y="96" width="86" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-39" target="W4_UKcA4W3yy70WwRPlZ-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="194" y="1700" />
+              <mxPoint x="492" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-65" value="&lt;font color=&quot;#000000&quot;&gt;Verilator&lt;br&gt;clock=0;eval();clock=1;eval();&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="26" y="30" width="714" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-67" value="&lt;font color=&quot;#000000&quot;&gt;Verilator&lt;br&gt;clock=0;eval();clock=1;eval();&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1218" width="714" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-68" value="Difftest" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="16" y="-146" width="160" height="112" as="geometry">
+            <mxRectangle x="-85" y="-121" width="76" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-69" value="+ dut&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-68">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-70" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-68">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-71" value="+ method(step): void " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-68">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-72" value="+ method(type): type " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-68">
+          <mxGeometry y="86" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-74" value="Difftest" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="89" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-75" value="+ dut" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-74">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-76" value="+ ref" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-74">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-82" value="+ method(step): void " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-74">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-78" value="difftest_core_state_t" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="202" y="89" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-79" value="+ event" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-78">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-80" value="+ commit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-78">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-81" value="+ regs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-78">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-75" target="W4_UKcA4W3yy70WwRPlZ-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-86" value="Difftest" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="1279" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-87" value="+ dut" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-86">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-88" value="+ ref" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-86">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-89" value="+ method(step): void " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-86">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-90" value="difftest_core_state_t" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="237" y="1279" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-91" value="+ event" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#FF0000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-90">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-92" value="+ commit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-90">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-93" value="+ regs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;fontColor=#000000;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-90">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-87" target="W4_UKcA4W3yy70WwRPlZ-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
