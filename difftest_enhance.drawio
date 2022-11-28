@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T04:37:15.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.6.0" etag="_nNxLsnL0RjYMQ4ts0he" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T04:44:12.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.6.0" etag="N7IQxFiJyi0NABehAvgJ" type="github">
   <diagram id="c9EQJKy3X6T9OGDmbaaM" name="第 1 页">
     <mxGraphModel dx="1113" dy="792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-3" value="difftest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="108" y="184" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="510" width="665" height="253" as="geometry" />
-        </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="1">
-          <mxGeometry x="86" y="620" width="108" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-6" value="XiangShan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="728" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-7" target="W4_UKcA4W3yy70WwRPlZ-8">
           <mxGeometry relative="1" as="geometry" />
@@ -51,20 +42,8 @@
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-15" value="./build" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="21" y="373" width="50" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="261" y="523" width="457" height="232" as="geometry" />
-        </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-17" value="src/main/scala" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="273" y="537" width="95" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-18" value="DifftestMain.scala&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;class Difftest*Event&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;extends module{&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;val io = new Diff*IO&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="266" y="254" width="154" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-19" value="ROB.scala&lt;br&gt;&lt;br&gt;val event = new &amp;nbsp;Difftest*Event&lt;br&gt;event.io.valid = event.valid&lt;br&gt;event.io.data = event.data" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
-          <mxGeometry x="352" y="656" width="212" height="87" as="geometry" />
-        </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-20" value="Sbuffer.scala" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
-          <mxGeometry x="573" y="682" width="86" height="61" as="geometry" />
         </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-7" target="W4_UKcA4W3yy70WwRPlZ-18">
           <mxGeometry relative="1" as="geometry" />
@@ -87,11 +66,40 @@
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-27" value="interface.cpp&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;void v_difftest_*(*) {&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	difftest-&amp;gt;dut.event.valid =*;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	difftest-&amp;gt;dut.event.data =*;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="532" y="158" width="176" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="W4_UKcA4W3yy70WwRPlZ-28" value="difftest&lt;br&gt;&lt;br&gt;step()" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-28" value="new difftest&lt;br&gt;&lt;br&gt;step()" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="302" y="78" width="116" height="114" as="geometry" />
         </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="59" y="502" width="665" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+          <mxGeometry width="665" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+          <mxGeometry x="27" y="34" width="108" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-6" value="XiangShan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+          <mxGeometry x="51" y="142" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+          <mxGeometry x="202" y="35" width="457" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-17" value="src/main/scala" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+          <mxGeometry x="209" y="40" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-19" value="ROB.scala&lt;br&gt;&lt;br&gt;val event = new &amp;nbsp;Difftest*Event&lt;br&gt;event.io.valid = event.valid&lt;br&gt;event.io.data = event.data" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+          <mxGeometry x="293" y="70" width="212" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="W4_UKcA4W3yy70WwRPlZ-20" value="Sbuffer.scala" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="W4_UKcA4W3yy70WwRPlZ-31">
+          <mxGeometry x="514" y="96" width="86" height="61" as="geometry" />
+        </mxCell>
         <mxCell id="W4_UKcA4W3yy70WwRPlZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W4_UKcA4W3yy70WwRPlZ-11" target="W4_UKcA4W3yy70WwRPlZ-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="514" />
+              <mxPoint x="458" y="514" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
