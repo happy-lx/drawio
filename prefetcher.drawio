@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T08:57:39.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MLT6Hobcdcs-CYy7uaoo" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T05:03:55.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fMYgkwMaf1hrM4zNI4sO" version="22.1.11" type="github">
   <diagram name="第 1 页" id="euD6tUMiN6V8_NP_tVHj">
     <mxGraphModel dx="3771" dy="2018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -726,6 +726,25 @@
         </mxCell>
         <mxCell id="zwMUN0PK1tV-5r7qfYJt-274" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;To Dcache L2/L3 Cache&lt;/font&gt;&lt;br style=&quot;font-size: 44px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="1304" y="14955" width="503" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="zwMUN0PK1tV-5r7qfYJt-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;fontSize=44;" edge="1" parent="1" source="zwMUN0PK1tV-5r7qfYJt-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="857" y="14719" as="sourcePoint" />
+            <mxPoint x="982" y="14972" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="982" y="14616" />
+              <mxPoint x="982" y="14972" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zwMUN0PK1tV-5r7qfYJt-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=7;fontSize=44;" edge="1" parent="1" source="zwMUN0PK1tV-5r7qfYJt-230">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1118" y="14819" as="sourcePoint" />
+            <mxPoint x="1170" y="14969" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zwMUN0PK1tV-5r7qfYJt-279" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;To TLB&lt;/font&gt;&lt;br style=&quot;font-size: 44px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="920" y="14966" width="303" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
